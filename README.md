@@ -1,10 +1,9 @@
 # ChucK playground
 
-E F G A B C D E
-E3	164.81
-C5	523.25
-
-`chuck.alsa *.ck`
+- E F G A B C D E
+- E3	164.81
+- C5	523.25
+- `chuck.alsa *.ck`
 
 ## References
 - [Frequencies for equal-tempered scale, A4 = 440 Hz][notes-f]
